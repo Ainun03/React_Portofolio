@@ -1,0 +1,145 @@
+{
+    "basics": {
+        "name": "M. Ainun Rofiq Hariri",
+        "label": "Web Developer",
+        "email": "ainunrofiq@gmail.com",
+        "phone": "(+62) 140-616-935",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Web",
+        "job2": "Developer",
+        "description": "Hello! I'm Rofiq! frontend enthusiastic junior programmer. Motivated by the things programming can do. I am interested in learning, self motivated and team work people. I hope to be a great developer and get my dream job in the future. Apart from coding, I also like listening to music and playing video games.",
+        "summary": "based in Situbondo, Jawa Timur.",
+        "keywords": "personal,website,portfolio,template,rofiq,ainun,fronend,webdev,web,developer,situbondo,jawatimur,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "",
+        "location": {
+            "address": "Kp Krajan, Bletok, Bungatan",
+            "postalCode": "XXXXX",
+            "city": "Situbondo",
+            "country": "Indonesia",
+            "countryCode": "IND",
+            "region": "Jawa Timur"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "ainunrofiq7@gmail.com",
+                "url": "mailto:ainunrofiq7@gmail.com",
+                "x_icon": "data:assets/png;base64,iVBORw0KGgoAAA..."
+            },
+            {
+                "network": "LinkedIn",
+                "username": "M. Ainun Rofiq Hariri",
+                "url": "https://www.linkedin.com/in/m-ainun-rofiq-hariri-62654b231/",
+                "x_icon":"fab fa-linkedin"
+            },
+            {
+                "network": "GitHub",
+                "username": "Ainun03",
+                "url": "https://github.com/Ainun03",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "ainunrofiq7",
+                "url": "https://gitlab.com/ainunrofiq7",
+                "x_icon": "fab fa-gitlab"
+            },
+            {
+                "network": "Telegram",
+                "username": "Ainun Rofiq",
+                "url": "https://t.me/ain_036",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "ainun_rofiq#9015",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Nurul Jadid University",
+            "area": "Informatics Engineering",
+            "studyType": "Bachelor",
+            "startDate": "2019-10-01",
+            "endDate": "Now",
+            "gpa": "3.8",
+            "courses": ["Web Development"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript", "Bootstrap", "TailwindCSS", "ReactJS", "NodeJS", "NextJS", "Goolang"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Indonesia",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Good knowledge"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
