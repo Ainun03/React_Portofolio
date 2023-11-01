@@ -27,8 +27,8 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'React Portfolio', 
-      description: `Designed and developed a ReactJS portfolio 
+      title: 'React Portofolio', 
+      description: `Designed and developed a ReactJS portofolio 
       with fancy 3D animations using Three.js for 
       the background element.`,
       alter: 'React Portfolio',
@@ -36,36 +36,32 @@ export const Works = () => {
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
-      alter: 'VeriTru Project',
+      title: 'Secondhand Project', 
+      description: `Last Project Bootcamp Team in Binar Academy, Create Secondhand Marketplace.`,
+      alter: 'Secondhand Project',
       image: `${Veritru}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
+      title: 'FishVenture Project', 
       description: `Logistics and Forwarding website built using
       ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
+      alter: 'FishVenture Project',
       image: `${Lofo}`,
     },
     { 
       id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
+      title: 'coctail Project', 
+      description: `A website coctail built using next JS to design and develop its Frontend`,
+      alter: 'coctail Project',
       image: `${Startup}`,
     },
     { 
       id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
+      title: 'Sandyakala Tech', 
+      description: `A website project for the Sandyakala business
+      built using ReactJS.`,
+      alter: 'Sandyakala Tech',
       image: `${Lacalle}`,
     },
   ]);
